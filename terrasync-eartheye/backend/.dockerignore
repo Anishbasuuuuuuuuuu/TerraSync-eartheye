@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.env
+venv/
+env/
+models/*.pth
+data/
+mlruns/
+mlflow.db
+predictions.db
